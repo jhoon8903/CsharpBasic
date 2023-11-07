@@ -1,0 +1,15 @@
+/Users/daniel/Documents/GitHub/CsharpBasic/bin/Debug/net7.0/CsharpBasic
+/Users/daniel/Documents/GitHub/CsharpBasic/bin/Debug/net7.0/CsharpBasic.deps.json
+/Users/daniel/Documents/GitHub/CsharpBasic/bin/Debug/net7.0/CsharpBasic.runtimeconfig.json
+/Users/daniel/Documents/GitHub/CsharpBasic/bin/Debug/net7.0/CsharpBasic.dll
+/Users/daniel/Documents/GitHub/CsharpBasic/bin/Debug/net7.0/CsharpBasic.pdb
+/Users/daniel/Documents/GitHub/CsharpBasic/obj/Debug/net7.0/CsharpBasic.csproj.AssemblyReference.cache
+/Users/daniel/Documents/GitHub/CsharpBasic/obj/Debug/net7.0/CsharpBasic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/Documents/GitHub/CsharpBasic/obj/Debug/net7.0/CsharpBasic.AssemblyInfoInputs.cache
+/Users/daniel/Documents/GitHub/CsharpBasic/obj/Debug/net7.0/CsharpBasic.AssemblyInfo.cs
+/Users/daniel/Documents/GitHub/CsharpBasic/obj/Debug/net7.0/CsharpBasic.csproj.CoreCompileInputs.cache
+/Users/daniel/Documents/GitHub/CsharpBasic/obj/Debug/net7.0/CsharpBasic.dll
+/Users/daniel/Documents/GitHub/CsharpBasic/obj/Debug/net7.0/refint/CsharpBasic.dll
+/Users/daniel/Documents/GitHub/CsharpBasic/obj/Debug/net7.0/CsharpBasic.pdb
+/Users/daniel/Documents/GitHub/CsharpBasic/obj/Debug/net7.0/CsharpBasic.genruntimeconfig.cache
+/Users/daniel/Documents/GitHub/CsharpBasic/obj/Debug/net7.0/ref/CsharpBasic.dll

@@ -233,12 +233,12 @@ public class Card
         }
     }
 
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Blackjack game = new Blackjack();
-            game.PlayGame();
-        }
-    }
+    // class Program
+    // {
+    //     static void Main(string[] args)
+    //     {
+    //         Blackjack game = new Blackjack();
+    //         game.PlayGame();
+    //     }
+    // }
 }
