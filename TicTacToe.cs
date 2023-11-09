@@ -209,7 +209,10 @@ public static class TicTacToe
         // 행 검사
         for (int row = 0; row < Size; row++)
         {
-            if (_board != null && _board[row, 0] != ' ' && _board[row, 0] == _board[row, 1] && _board[row, 1] == _board[row, 2])
+            if (_board != null 
+                && _board[row, 0] != ' '
+                && _board[row, 0] == _board[row, 1] 
+                && _board[row, 1] == _board[row, 2])
             {
                 return _board[row, 0];
             }
@@ -223,12 +226,12 @@ public static class TicTacToe
                 return _board[0, col];
             }
         }
-
         // 대각선 검사
         if (_board != null && _board[0, 0] != ' ' && _board[0, 0] == _board[1, 1] && _board[1, 1] == _board[2, 2])
         {
             return _board[0, 0];
         }
+
         if (_board != null && _board[0, 2] != ' ' && _board[0, 2] == _board[1, 1] && _board[1, 1] == _board[2, 0])
         {
             return _board[0, 2];
